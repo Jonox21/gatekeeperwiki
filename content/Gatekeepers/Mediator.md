@@ -19,6 +19,7 @@ enableToc: false
 > | Damage | 40 |
 > | Regeneration | 1 |
 > | Movement Speed | 14 |
+> | Attack Speed | 0.65 Attacks/Second |
 
 **Description:**
 
@@ -35,8 +36,8 @@ The Mediator, against his will, was given the opportunity to atone for his past.
 
 #### Cranium Scatter
 ![[CraniumScatter.png|wtiny]]
-- **Base**: Throws a projectile that deals 100% damage within a radius of 4 units. On impact, the projectile splits into 3 additional projectiles.
-- **Upgrade 1**: Gains an aura that deals 50% damage every 0.2 seconds within a radius of 4 units.
+- **Base**: Throws a projectile that deals 200% damage within a radius of 6 units. On impact, the projectile splits into 3 additional projectiles.
+- **Upgrade 1**: Gains an aura that deals 50% damage every 0.2 seconds within a radius of 6 units.
 - **Upgrade 2**: Fires additional projectiles along the way.
 - **Upgrade 3**: A 35% chance to throw 2 projectiles.
 
